@@ -1,6 +1,6 @@
 > This project has been created as part of the DevOps course on [roadmap.sh](https://roadmap.sh).
 
-# gm_roadmap_sps — server performance stats
+# roadmap_sps — server performance stats
 
 This is the first project in the DevOps specialization on [roadmap.sh](https://roadmap.sh). It provides basic knowledge on how to analyze server performance stats in order to debug issues and gain a better understanding of a server’s performance.
 
@@ -52,15 +52,6 @@ This is the first project in the DevOps specialization on [roadmap.sh](https://r
 
 * [Bash documentation](https://www.gnu.org/software/bash/manual/bash.html)
 * [Script bash](https://perso.liris.cnrs.fr/amelie.cordier/teaching/linux/html/scripts.html)
-
-### AI usage
-
-I used AI tools to:
-* draft documentation structure and checklists
-* review configuration files for consistency
-* suggest refactoring ideas and edge cases for validation and error handling
-
-I did **not** copy-paste AI-generated code blindly.
 
 ---
 
